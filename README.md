@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammaruchia&label=Profile%20views&color=0e75b6&style=flat" alt="ammaruchia" /> </p>
 
-- 🔭 I’m currently working on a e-commerce full-stack website **zing**
+- 🔭 I’m currently working on a e-commerce full-stack website **strap**
 
-- 🌱 I’m currently learning **React Git**
+- 🌱 I’m currently learning **React and Git**
 
 - 💬 Ask me about **React, Python, HTML, CSS, Javascript and MYSQL**
 
