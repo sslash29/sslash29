@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammaruchia&label=Profile%20views&color=0e75b6&style=flat" alt="ammaruchia" /> </p>
 
-- 🔭 I’m currently working on a e-commerce full-stack website **strap**
+- 🔭 I’m currently working on an ERP System **strap**
 
-- 🌱 I’m currently learning **React and Git**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **React, Python, HTML, CSS, Javascript and MYSQL**
+- 💬 Ask me about **Python, HTML, CSS, Javascript**
 
-- 📫 How to reach me **ammaruchia29@gmail.com**
-
-- ⚡ Fun fact **I am not Dumb and Funny**
+- 📫 How to reach me **sslash581@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
