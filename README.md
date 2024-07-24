@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Python, HTML, CSS, Javascript**
-
 - 📫 How to reach me **sslash581@gmail.com**
 
 
