@@ -1,11 +1,11 @@
 <h1 align="center">Hey, sslash here</h1>
 <h3 align="center">a lazy dev who likes to automate tasks</h3>
 
-- 🌱 I’m currently learning **Machine Learning & Linear Algebra**
+- `I’m currently learning **Machine Learning & Linear Algebra**`
 
-- 💬 Ask me about **typically anything within my skills that I specified**
+- `Ask me about **typically anything within my skills that I specified**`
 
-- 📫 How to reach me **sslashdev29@gmail.com**
+- `How to reach me **sslashdev29@gmail.com**`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
