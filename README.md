@@ -5,7 +5,7 @@
 
 - `Ask me about` **typically anything within my skills that I specified**
 
-- `How to reach me` **sslashdev29@gmail.com**
+- `How to reach me` **sslashwork29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
